@@ -1,0 +1,22 @@
+{
+  "name": "javascript30-master",
+  "version": "1.0.0",
+  "description": "js tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maresThere/js30.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maresThere/js30/issues"
+  },
+  "homepage": "https://github.com/maresThere/js30#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
